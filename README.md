@@ -17,8 +17,7 @@ Fullstack
 ## **Directory Structure**
 
 ```
-BOOK-EASE/
-├── .vscode/ # VSCode specific settings
+Book_ease-JSProject/
 ├── assets/ # Static assets (images, icons, etc.)
 ├── components/ # HTML files for individual components
 │ ├── availability.html
@@ -59,13 +58,6 @@ BOOK-EASE/
 
 <!-- e html2pdf.js  -->
 
-## **Video Walkthrough of the Project**
-
-[https://youtu.be/c1Yy7jv8XLc?si=g9CZtJZb0eMrCFeb](#)
-
-## **Video Walkthrough of the Codebase**
-
-[https://www.youtube.com/watch?v=72Yau3QriSQ](#)
 
 ## **Features**
 
@@ -91,8 +83,7 @@ Follow these steps to install and run the project locally:
 ### Frontend Setup
 
 ```bash
-git clone "https://github.com/shubham-sangale-11/Book-Ease.git"
-cd Book-Ease
+git clone "(https://github.com/trupti940/Book_ease-JSProject.git)"
 open index.html in your browser
 
 ```
@@ -104,20 +95,7 @@ open index.html in your browser
 - Register a new user or log in with test credentials to explore features.
 - Use the navigation sidebar to access sections such as Dashboard, Book Appointments, Availability, Notifications, and Reports.
 
-## Credentials
 
-#### User
-
-- Email : book_ease@gmail.com
-- Password : book_ease
-
-## API Used
-
-- Sign Up API : https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=${API_KEY}
-- Login API : https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=${API_KEY}
-
-- For Fetching Services : https://book-ease-73f27-default-rtdb.firebaseio.com/services.json
-- For Fetching Bookings : https://book-ease-73f27-default-rtdb.firebaseio.com/confomebooking.json
 
 ## Technology Stack
 
